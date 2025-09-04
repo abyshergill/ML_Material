@@ -29,7 +29,14 @@ It is index page which contain all the projects and notes related to ML.
 ### Neural Network
 | Project Number | Description | Link |
 |:---------------|:-----------|:-----|
-| **Create OWN Neural Network** | We will Create Neural Network on IRIS dataset using ( Pytorch ) | [Neural Network ON IRIS dataset] (https://github.com/abyshergill/ML_Material/tree/main/Neural%20Network/PYTORCH%20NN%20on%20IRIS%20Dataset)
+| **Create OWN Neural Network** | We will Create Neural Network on IRIS dataset using ( Pytorch ) | [Neural Network ON IRIS dataset](https://github.com/abyshergill/ML_Material/tree/main/Neural%20Network/PYTORCH%20NN%20on%20IRIS%20Dataset)
+---
+
+---
+### YOLO Object Detection
+| Project Number | Description | Link |
+|:---------------|:-----------|:-----|
+| **YOLO Object Detection** | YOLO { Ultralytics } Object detection Training Process and Folder Structure | [YOLO Object Detection](https://github.com/abyshergill/ML_Material/YOLO_Object_Detection)
 ---
 ---
 ## Miscellenous 
