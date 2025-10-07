@@ -22,14 +22,14 @@ It is index page which contain all the projects and notes related to ML.
 ### Convolution Neural Network
 | Project Number | Description | Link |
 |:---------------|:-----------|:-----|
-| **CNN on MNIST dataset** | Predict the number from MNIST dataset using ( Pytorch ) | [CNN on MNIST dataset ](https://github.com/abyshergill/ML_Material/tree/main/Convolution%20Neural%20Network/PYTORCH%20CNN%20Dataset%20MNIST)
+| **CNN on MNIST dataset** | Predict the number from MNIST dataset using ( Pytorch ) | [CNN on MNIST dataset ](https://github.com/abyshergill/ML_Material/tree/main/Convolution%20Neural_Network/PYTORCH%20CNN%20Dataset%20MNIST)
 
 ---
 ---
 ### Neural Network
 | Project Number | Description | Link |
 |:---------------|:-----------|:-----|
-| **Create OWN Neural Network** | We will Create Neural Network on IRIS dataset using ( Pytorch ) | [Neural Network ON IRIS dataset](https://github.com/abyshergill/ML_Material/tree/main/Neural%20Network/PYTORCH%20NN%20on%20IRIS%20Dataset)
+| **Create OWN Neural Network** | We will Create Neural Network on IRIS dataset using ( Pytorch ) | [Neural Network ON IRIS dataset](https://github.com/abyshergill/ML_Material/tree/main/Neural_Network/PYTORCH_NN_on_IRIS_Dataset)
 ---
 
 ---
@@ -38,6 +38,15 @@ It is index page which contain all the projects and notes related to ML.
 |:---------------|:-----------|:-----|
 | **YOLO Object Detection** | YOLO { Ultralytics } Object detection Training Process and Folder Structure | [YOLO Object Detection](https://github.com/abyshergill/ML_Material/YOLO_Object_Detection)
 ---
+
+### Computer_Vision
+| Project Number | Description | Link |
+|:---------------|:-----------|:-----|
+| **Linear Vision Model on fashionMNIST dataset** | Predict the number from FashionMNIST dataset using ( Pytorch ) for learning | [Linear Computer Vision Model ](https://github.com/abyshergill/ML_Material/tree/main/Computer_Vision_PYTORCH/Computer_Vision_Linear)
+
+---
+
+
 ---
 ## Miscellenous 
 | Project Name| Description | Link |
