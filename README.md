@@ -44,6 +44,7 @@ It is index page which contain all the projects and notes related to ML.
 |:---------------|:-----------|:-----|
 | **Linear Vision Model on fashionMNIST dataset** | Predict the number from FashionMNIST dataset using ( Pytorch ) for learning | [Linear Computer Vision Model ](https://github.com/abyshergill/ML_Material/tree/main/Computer_Vision_PYTORCH/Computer_Vision_Linear)
 | **Linear Vision Model with Some Non Linear on fashionMNIST dataset** | Predict the number from FashionMNIST dataset using ( Pytorch ) for learning | [Linear layer with some non linear layer Computer Vision Model ](https://github.com/abyshergill/ML_Material/tree/main/Computer_Vision_PYTORCH/Computer_Vision_With_Non_Linearity)
+| **Computer Vision Model with CNN on fashionMNIST dataset** | Predict the number from FashionMNIST dataset using ( Pytorch ) for learning | [Basic CNN ](https://github.com/abyshergill/ML_Material/tree/main/Computer_Vision_PYTORCH/Computer_Vision_With_CNN)
 ---
 
 
